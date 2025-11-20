@@ -1,8 +1,8 @@
 ---
-root: "."
+root: ".github"
 name: "CODE_OF_CONDUCT.md"
 link: "see [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for the [[Single Source of Truth]]"
-version: 1.01
+version: 1.06
 ---
 # Morphological Source Code (MSC/QSD)
 
