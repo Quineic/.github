@@ -2,7 +2,7 @@
 root: ".github"
 name: "README.md"
 link: "see [/profile/README.md](/profile/README.md) for the [[Single Source of Truth]]"
-version: 2.019
+version: 2.21
 ---
 # Morphological Source Code (MSC/QSD)
 
@@ -16,11 +16,10 @@ version: 2.019
 
 CommunityLinks: [r/Morphological](https://www.reddit.com/r/Morphological/) | [Phovos@X](https://x.com/Phovso) | [Phovos@youtube](https://www.youtube.com/@phovos) | [Code of Conduct](https://github.com/Quineic/source/blob/production/CODE_OF_CONDUCT.md)
 
-NEW: [r/Quine](https://www.reddit.com/r/Quine); | [production gitter(dev-chat)](https://app.gitter.im/#/room/#production:gitter.im) for this "Quineic branch", specifically 
+NEW: [r/Quine](https://www.reddit.com/r/Quine); | [production gitter(dev-chat)](https://app.gitter.im/#/room/#production:gitter.im)
 
-> © 2025 Quineic https://github.com/Quineic/ | CC ND && BSD-3 | SEE LICENSE
-
-> © 2024-25 Phovos https://github.com/Phovos/Morphologic; © 2023-25 Moonlapsed https://github.com/MOONLAPSED/Cognosis
+> © 2024-25 Phovos https://github.com/Phovos/Morphological |  CC ND && BSD-3 | SEE LICENSE
+> © 2023-25 Moonlapsed https://github.com/MOONLAPSED/Cognosis | MIT/BSD
 
 This SDK implements Morphological Source Code exhibiting Quineic Statistical Dynamics (QSD), a computational framework where:
 - **ByteWords** are atomic morphogens (8-bit quantum observables)
